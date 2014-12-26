@@ -21,7 +21,7 @@ and open the template in the editor.
                 Información
             </legend>
             <p>
-                Instalada con éxito
+                Instalada con éxito Gracias
             </p>
         </fieldset>
     </body>
